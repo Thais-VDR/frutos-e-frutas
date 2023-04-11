@@ -1,0 +1,22 @@
+.pessoa_imagem{
+   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    width: 300px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+.pessoa_imagem--connor{
+    background-image: url('../../img/pessoas/connor.jpg.jpg');
+}
+
+.pessoa_imagem--kara{
+    background-image: url('../../img/pessoas/kara.jpg.jpg');
+}
+
+.pessoa_imagem--markus{
+    background-image: url('../../img/pessoas/markus.jpg.jpg');
+}
